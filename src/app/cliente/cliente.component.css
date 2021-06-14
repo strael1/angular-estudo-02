@@ -1,0 +1,9 @@
+#frutas {
+    border-collapse: collapse;
+}
+
+#frutas th, #frutas td {
+    border: 2px solid #cecece;
+    padding: 10px;
+}
+
